@@ -1,0 +1,18 @@
+Task: Basic Data Visualization with the Iris Dataset
+Description: Use the Iris dataset to create simple visualizations like scatter plots, and histograms.
+
+Key Concepts:
+
+  1. Data exploration using Pandas.
+  2. Basic plotting with Matplotlib/Seaborn.
+
+Steps:
+
+  1. Load the Iris dataset (available in Scikit-learn or Kaggle).
+  2. Explore the dataset (e.g., check for missing values, data types).
+  3. Create scatter plots for petal length vs. petal width.
+  4. Plot histograms for each feature to observe distributions.
+
+Dataset: [Iris Dataset](https://archive.ics.uci.edu/dataset/53/iris).
+
+My Difficulty Rating: D
