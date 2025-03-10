@@ -1,1 +1,18 @@
-The task is to
+Task: To create an interactive time-series plot of weather trends over Brazilian cities.
+Description: Use a dataset containing temperature averages over months and years in Brazilian cities. Using this data, create an interactive time series plot showing temperature over various cities in Brazil, featuring a slider to adjust time window. In this dataset, some entries have the value 999.90, which appears to stand for missing or incorrect entries. Those were replaced with NaN while cleaning up the dataset.
+
+Key Concepts:
+
+  1. Data exploration using Pandas.
+  2. Interactive plotting with Plotly library.
+
+Steps:
+
+  1. Load the "Temperature Time-Series for some Brazilian cities" dataset (available in Kaggle).
+  2. Explore the dataset (e.g., check for missing values, data types).
+  3. Replace faulty data values with NaN.
+  4. Plot the interactive time series graph of temperature trends.
+
+Dataset: [Temperature Time-Series for some Brazilian cities Dataset](https://www.kaggle.com/datasets/volpatto/temperature-timeseries-for-some-brazilian-cities/data).
+
+My Difficulty Rating: C
