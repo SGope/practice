@@ -5,7 +5,7 @@ import plotly.express as px
 import numpy as np
 
 def main():
-    path = "/home/sayantan-gope/PycharmProjects/practice/weather_visualisation/archive/"
+    path = "/__Enter your path here__/"
     for i, name in enumerate(names for names in os.listdir(path)):
         city_name = name.split('_')[1].split('.')[0]
         city_data = pd.read_csv(os.path.join(path, name))
